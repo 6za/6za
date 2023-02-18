@@ -3,6 +3,6 @@
 
 
 
-[![6za's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=6za)](https://github.com/6za/github-readme-stats)
+![Accepting Donations](https://www.paypal.com/donate/?hosted_button_id=Z6NRZUV9KU66G)
 
 Details: [Detailed Resume](https://kaxios.github.io/)
