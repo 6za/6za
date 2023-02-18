@@ -3,6 +3,6 @@
 
 
 
-![Accepting Donations](https://www.paypal.com/donate/?hosted_button_id=Z6NRZUV9KU66G)
+[Accepting Donations](https://www.paypal.com/donate/?hosted_button_id=Z6NRZUV9KU66G)
 
 Details: [Detailed Resume](https://kaxios.github.io/)
