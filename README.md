@@ -1,8 +1,5 @@
 
 ![6za's GitHub stats](https://github-readme-stats.vercel.app/api?username=6za&show_icons=true&theme=tokyonight) 
-
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=6za&layout=compact&theme=tokyonight)
 
 
