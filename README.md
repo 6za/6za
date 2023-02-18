@@ -5,7 +5,7 @@
 
 
 
-[<img src="https://logospng.org/wp-content/uploads/paypal.jpg">](https://www.paypal.com/donate/?hosted_button_id=Z6NRZUV9KU66G)
+[PayPal](https://www.paypal.com/donate/?hosted_button_id=Z6NRZUV9KU66G)
 
 Details: [Detailed Resume](https://kaxios.github.io/)
 
