@@ -1,9 +1,11 @@
 
 ![6za's GitHub stats](https://github-readme-stats.vercel.app/api?username=6za&show_icons=true&theme=tokyonight) 
 
+![](https://komarev.com/ghpvc/?username=6za&label=N&style=flat)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=6za&theme=tokyonight&hide_progress=true&langs_count=10)
 
-![](https://komarev.com/ghpvc/?username=6za&label=N&style=flat)
+
 
 [Detailed Resume](https://kaxios.github.io/)
 
