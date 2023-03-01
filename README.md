@@ -3,6 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=6za&theme=tokyonight&hide_progress=true&langs_count=10)
 
+![](https://komarev.com/ghpvc/?username=6za&label=PROFILE+VIEWS)
 
 [Detailed Resume](https://kaxios.github.io/)
 
