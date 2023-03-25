@@ -9,8 +9,4 @@
 
 [Detailed Resume](https://kaxios.github.io/)
 
-> [<img src="https://ionicabizau.github.io/badges/paypal.svg">](https://www.paypal.com/donate/?hosted_button_id=Z6NRZUV9KU66G) 
-> 
-> _feel free to donate in case you want to support open-source projects work._
-
 
